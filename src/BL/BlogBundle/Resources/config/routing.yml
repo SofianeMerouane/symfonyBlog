@@ -1,0 +1,3 @@
+bl_blog_home:
+    path:     /
+    defaults: { _controller: BLBlogBundle:Blog:index }
